@@ -1,0 +1,19 @@
+#gifs{
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    width: 250px;
+    height: 250px;
+    margin: 3px;
+}
+body{
+    text-align: center;
+}
+#remove{
+    background-color: red;
+    border-radius: 7px;
+}
+#search{
+    border-radius: 7px;
+}
